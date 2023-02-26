@@ -2,7 +2,6 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Shefali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shefali-chaudhary-a88081210/)](https://www.linkedin.com/in/shefali-chaudhary-a88081210)
-
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Shefali-yellow)](https://stackoverflow.com/users/21202902/shefali-chaudhary-)
 
 I'm
